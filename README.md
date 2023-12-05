@@ -12,7 +12,7 @@ I'm currently in my first year of Bachelor's in computer science.
 I'm still exploring my skills in computer science, so I'm not sure about my specific technical skills yet. However, if you have any questions or need guidance related to computer science or any other topic, feel free to ask, and I'll do my best to assist you.
 
 # Recent Projects Completed
-While I'm in the early stages of my academic journey, I have completed five C++ coding assignments in the beginning of the year.
+While I'm in the early stages of my academic journey, I have completed 15 C++ coding assignments in the beginning of the year.
 
 # Hobby
 I have a passion for playing football, reading about history, and enjoying video games in my free time.
