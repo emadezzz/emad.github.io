@@ -1,7 +1,7 @@
 # emad.github.io
 
 # About Me
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcomputer-science-wallpaper&psig=AOvVaw2TSqdHmUxeGsgoY5S-Pz_8&ust=1701854417185000&source=images&cd=vfe&ved=0CBMQjhxqFwoTCMjY6vb794IDFQAAAAAdAAAAABAZ
+![digital-art-black-dark-background-circuit-wallpaper-preview](https://github.com/emadezzz/emad.github.io/assets/147836471/07951089-a17a-4420-977a-5f9466132cca)
 
 Hello, I'm Emad Ezzadeen, and I'm 20 years old. I'm originally from Yemen.
 
