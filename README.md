@@ -9,7 +9,7 @@ Hello, I'm Emad Ezzadeen, and I'm 20 years old. I'm originally from Yemen.
 I'm currently in my first year of Bachelor's in computer science.
 
 # Skillset
-I'm still exploring my skills in computer science, so I'm not sure about my specific technical skills yet. However, if you have any questions or need guidance related to computer science or any other topic, feel free to ask, and I'll do my best to assist you.
+I'm still exploring my skills in computer science in C++, so I'm not sure about my specific technical skills yet. However, if you have any questions or need guidance related to computer science or any other topic, feel free to ask, and I'll do my best to assist you.
 
 # Recent Projects Complete
 While I'm in the early stages of my academic journey, I have completed 15 C++ coding assignments, a report about the Application of computer, network, and information security techniques, and a project proposal for creating my own app in Wellbeing & Fitness.
